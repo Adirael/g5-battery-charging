@@ -21,7 +21,7 @@ The charging circuit is build around an MCP73831. Using a 20kOhm resistor on the
 * 20K 0603 package
 * Red LED 0805 package
 * 10uF condenser 0805 package
-* Pogo pins[4]
+* [Pogo pins][4]
 
 
 [1]: https://thewanderingengineer.com/2016/01/27/simple-lipo-battery-charger-with-the-mcp73831/ 
